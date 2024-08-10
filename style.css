@@ -1,0 +1,12 @@
+.calculator-container{
+    height: 400px;
+    width: 300px;
+    background-color: blueviolet;
+    margin: 50px;
+    margin-left: 550px;
+}
+.screen{
+    width: 250px;
+    height: 50px;
+    margin: 20px;
+}
