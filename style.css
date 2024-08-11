@@ -47,4 +47,7 @@
 .btn-operator{
     background-color:#eaddcf;
 }
-
+.btn:hover{
+    box-shadow: 0px 0px 10px 5px #eaddcf;
+    transition: 0.3s;
+}
