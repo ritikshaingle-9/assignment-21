@@ -22,4 +22,13 @@
     font-family: 'DS-Digital Normal';
     
 }
+.btn-container{
+    width:400px;
+    height:360px;
+    margin: 30px 38px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding: 5px;
+}
 
